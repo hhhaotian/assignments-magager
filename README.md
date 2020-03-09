@@ -14,7 +14,5 @@ https://www.youtube.com/watch?v=cwV--F2uGNM&feature=youtu.be
 ## Installation
 Clone this repository and import into **Android Studio**
 ```bash
-git clone [GitHub - hhhaotian/assignments-magager](https://github.com/hhhaotian/assignments-magager.git)
+git clone https://github.com/hhhaotian/assignments-magager.git
 ```
-
-	ß
